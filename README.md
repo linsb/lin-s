@@ -1,0 +1,4 @@
+lin-s
+=====
+
+my file
